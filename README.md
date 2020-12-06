@@ -3,7 +3,7 @@
 This repository contains the code for our project website.  
 
 ​
-**Project website**: https://andrey-esipov.github.io/visualizing_world_happiness/  
+**Project website**: https://visualizing-world-happiness.github.io/project/    
 ​
 **Screencast video**: https://1drv.ms/v/s!ArfOCdhvZWctl5oMp2q42ybwVxyMyA?e=4dCq6d
 ​  
