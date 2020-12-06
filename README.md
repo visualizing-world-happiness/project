@@ -5,7 +5,9 @@ This repository contains the code for our project website.
 ​
 **Project website**: https://andrey-esipov.github.io/visualizing_world_happiness/  
 ​
-**Screencast video**: [URL HERE](URL HERE)  
+**Screencast video**: https://1drv.ms/v/s!ArfOCdhvZWctl5oMp2q42ybwVxyMyA?e=4dCq6d
+​  
+**Process book**: https://docs.google.com/document/d/1HEko6JCTMPxfvaeO73koPZpWx11BZtj6i5Q8ToH1p_0/edit#heading=h.29r9lwln85ah
 ​  
 We have used the following libraries in our code...  
 ​  
